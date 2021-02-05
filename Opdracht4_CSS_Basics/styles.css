@@ -1,0 +1,23 @@
+body {
+    background-color: lightcyan;
+    color:green;
+ /*
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    font-weight:normal;
+    Dit is het zelfde als erboven 
+ */
+
+    font: normal 16px arial, helvetica, sans-serif;
+    line-height: 1.5em;
+}
+
+p{
+    color: blue;
+}
+.black-border{
+    border: 1px solid black;
+}
+#green-background{
+    background-color: greenyellow;
+}

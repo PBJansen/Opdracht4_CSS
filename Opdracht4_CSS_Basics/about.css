@@ -1,0 +1,15 @@
+body {
+    color: green;
+    background-color:lightcyan;
+}
+.black-border{
+    border: 5px solid black;
+    font-size: 20px;
+    color:blue;
+}
+.red-background{
+    background-color: rgb(236, 233, 220);
+    color: darkblue;
+    font: normal 20px helvetica arial sans-serif
+    
+}
